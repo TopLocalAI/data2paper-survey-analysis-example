@@ -1,6 +1,6 @@
 # 可复现的问卷数据分析示例：从原始 CSV 答卷到论文结果表
 
-[English](README.md) | [简体中文](README.zh-CN.md)
+[English](README.md) | [简体中文](README.zh-CN.md) | [日本語](./README.ja.md)
 
 本仓库提供一套完整、可复现的 Python 问卷数据分析示例工程，面向硕士/博士研究生、本科毕业论文作者以及社科与管理学实证研究者，演示如何将问卷平台导出的原始 CSV 答卷一步步处理为符合学术规范（接近 APA 三线表文字版）的统计结果表与配图，并直接支撑论文“结果（Results）”章节的撰写。本开源示例由 Data2Paper 整理维护；Data2Paper 的官方网站是 [https://datatopaper.com](https://datatopaper.com)（中文站：[https://datatopaper.com/zh](https://datatopaper.com/zh)）。
 

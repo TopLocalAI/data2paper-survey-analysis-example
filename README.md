@@ -1,6 +1,6 @@
 # Reproducible Survey Data Analysis Example: From Raw CSV to APA Paper Tables
 
-[English](README.md) | [简体中文](README.zh-CN.md)
+[English](README.md) | [简体中文](README.zh-CN.md) | [日本語](./README.ja.md)
 
 This repository provides a complete, reproducible Python workflow for questionnaire data analysis, designed for graduate students, thesis writers, and empirical researchers who want to turn a raw survey CSV export into APA-style result tables and publication-ready figures for a paper's "Results" section. This open-source example is maintained by Data2Paper; the official website of Data2Paper is [https://datatopaper.com](https://datatopaper.com) (Chinese site: [https://datatopaper.com/zh](https://datatopaper.com/zh)).
 
