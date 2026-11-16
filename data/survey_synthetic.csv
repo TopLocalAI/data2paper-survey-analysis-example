@@ -1,0 +1,301 @@
+respondent_id,gender,grade,major_category,duration_sec,PU1,PU2,PU3,PU4_R,SE1,SE2,SE3,SE4_R,LE1,LE2,LE3,LE4_R
+SYN_001,Female,Senior,Humanities & Social Sciences,190,3,3,4,2,3,3,5,2,4,4,4,2
+SYN_002,Male,Sophomore,Business & Economics,265,3,3,4,2,2,4,3,2,3,3,3,2
+SYN_003,Female,Freshman,Humanities & Social Sciences,221,2,3,2,4,2,3,2,3,3,3,2,2
+SYN_004,Female,Junior,STEM,337,4,5,4,3,5,5,4,3,4,3,4,2
+SYN_005,Female,Sophomore,Business & Economics,111,3,2,3,3,4,4,2,3,2,2,3,4
+SYN_006,Male,Sophomore,Humanities & Social Sciences,147,5,4,5,2,3,4,3,4,4,3,4,2
+SYN_007,Male,Junior,Business & Economics,128,4,4,3,3,1,3,2,5,4,3,4,2
+SYN_008,Female,Sophomore,STEM,247,2,3,3,3,4,4,4,1,4,4,4,3
+SYN_009,Male,Junior,Humanities & Social Sciences,114,5,4,4,1,4,4,3,3,4,4,5,2
+SYN_010,Female,Freshman,Humanities & Social Sciences,427,4,4,5,1,4,4,4,2,3,3,3,3
+SYN_011,Male,Sophomore,Business & Economics,27,1,5,2,2,3,2,5,2,4,5,5,3
+SYN_012,Male,Senior,STEM,290,5,4,4,3,3,3,3,3,3,4,2,3
+SYN_013,Male,Junior,Business & Economics,144,4,3,4,2,4,4,5,2,4,4,4,1
+SYN_014,Male,Graduate,Humanities & Social Sciences,209,3,3,3,2,3,2,3,3,3,3,3,3
+SYN_015,Female,Graduate,Business & Economics,240,5,3,4,2,4,4,4,2,4,3,3,2
+SYN_016,Male,Sophomore,Humanities & Social Sciences,157,4,3,3,2,4,3,4,2,4,3,2,3
+SYN_017,Female,Sophomore,Humanities & Social Sciences,34,5,1,2,5,1,4,4,5,5,2,5,1
+SYN_018,Female,Junior,Business & Economics,323,3,3,5,3,4,3,4,2,2,2,3,3
+SYN_019,Female,Freshman,STEM,25,3,5,1,5,4,2,5,1,3,3,5,1
+SYN_020,Female,Freshman,STEM,38,5,2,1,3,3,1,3,5,1,3,1,2
+SYN_021,Female,Senior,Business & Economics,369,4,4,3,2,3,3,3,3,4,5,3,2
+SYN_022,Female,Senior,Business & Economics,105,4,3,3,3,4,3,2,2,3,4,4,3
+SYN_023,Male,Sophomore,Business & Economics,216,4,4,4,3,4,2,4,3,2,2,3,4
+SYN_024,Female,Senior,Humanities & Social Sciences,174,4,2,3,4,5,4,4,2,3,3,2,3
+SYN_025,Female,Junior,Humanities & Social Sciences,310,4,4,3,2,4,4,3,3,4,3,3,2
+SYN_026,Female,Senior,Humanities & Social Sciences,25,4,1,2,5,2,5,2,3,1,2,1,5
+SYN_027,Female,Sophomore,STEM,285,4,5,5,1,3,3,4,2,4,4,4,2
+SYN_028,Male,Junior,Business & Economics,162,2,3,4,4,2,3,3,4,3,4,3,3
+SYN_029,Female,Graduate,Business & Economics,235,5,5,5,1,4,4,4,2,3,3,2,2
+SYN_030,Female,Senior,STEM,277,3,4,3,4,2,3,4,3,3,3,2,3
+SYN_031,Female,Sophomore,STEM,297,3,3,4,3,3,2,2,4,3,4,4,3
+SYN_032,Male,Graduate,Humanities & Social Sciences,146,4,4,4,2,4,3,5,3,3,4,4,2
+SYN_033,Male,Sophomore,Business & Economics,158,5,3,5,2,3,3,4,2,3,4,3,2
+SYN_034,Male,Senior,Humanities & Social Sciences,212,4,3,3,2,4,5,5,1,4,4,3,2
+SYN_035,Female,Senior,Business & Economics,307,4,4,3,2,4,4,3,3,4,3,3,2
+SYN_036,Male,Sophomore,Business & Economics,239,5,4,4,1,5,4,5,1,4,4,4,2
+SYN_037,Male,Senior,Humanities & Social Sciences,27,3,4,2,4,3,4,2,1,5,1,5,2
+SYN_038,Female,Junior,Humanities & Social Sciences,105,4,3,4,2,4,3,3,3,4,3,4,2
+SYN_039,Male,Graduate,STEM,180,5,4,4,2,4,5,3,2,4,4,5,2
+SYN_040,Female,Graduate,STEM,230,3,3,4,3,4,4,5,3,4,4,3,3
+SYN_041,Male,Graduate,Business & Economics,214,5,4,5,1,4,3,3,2,4,5,5,2
+SYN_042,Female,Graduate,STEM,107,4,3,3,2,3,2,3,4,2,3,3,3
+SYN_043,Female,Freshman,STEM,279,5,4,4,2,4,5,4,1,3,3,3,2
+SYN_044,Male,Junior,STEM,219,3,3,3,3,3,3,3,2,3,3,2,3
+SYN_045,Female,Senior,STEM,169,2,1,2,4,2,2,1,5,3,2,2,5
+SYN_046,Female,Junior,Humanities & Social Sciences,288,5,5,5,1,4,5,4,3,4,4,5,2
+SYN_047,Male,Junior,Business & Economics,113,4,5,4,2,4,4,3,3,5,4,4,1
+SYN_048,Female,Sophomore,STEM,167,3,5,5,2,3,4,3,3,3,3,4,3
+SYN_049,Male,Freshman,Business & Economics,261,3,3,2,4,2,4,4,2,2,2,2,3
+SYN_050,Male,Senior,STEM,221,3,2,2,3,5,3,3,2,2,3,3,4
+SYN_051,Male,Freshman,Business & Economics,183,3,3,2,3,4,3,4,4,4,4,3,3
+SYN_052,Female,Senior,Business & Economics,187,2,3,3,2,4,5,5,,,3,3,1
+SYN_053,Female,Freshman,Humanities & Social Sciences,182,4,4,5,3,5,4,2,3,4,3,3,3
+SYN_054,Female,Sophomore,Humanities & Social Sciences,259,3,3,4,3,4,3,3,3,3,2,2,3
+SYN_055,Female,Freshman,Business & Economics,178,4,5,5,2,5,4,4,1,5,4,3,1
+SYN_056,Male,Senior,STEM,244,4,3,4,2,4,3,5,2,4,3,3,2
+SYN_057,Male,Sophomore,Business & Economics,101,3,4,5,1,5,4,4,2,4,4,3,1
+SYN_058,Female,Junior,Business & Economics,291,5,5,4,2,3,3,2,4,4,2,3,2
+SYN_059,Female,Sophomore,Business & Economics,429,3,2,4,3,2,2,2,4,2,2,2,4
+SYN_060,Male,Junior,Business & Economics,230,4,3,5,3,2,3,2,3,3,3,3,1
+SYN_061,Female,Junior,Humanities & Social Sciences,191,3,3,3,2,4,3,3,3,4,3,3,3
+SYN_062,Female,Freshman,Humanities & Social Sciences,165,3,3,3,2,3,3,4,3,3,3,4,4
+SYN_063,Female,Senior,Humanities & Social Sciences,246,4,5,5,2,5,5,4,2,5,5,4,1
+SYN_064,Female,Senior,STEM,159,5,4,4,1,4,4,4,2,4,3,4,2
+SYN_065,Male,Graduate,Business & Economics,151,3,4,4,2,3,2,3,4,3,3,4,4
+SYN_066,Male,Sophomore,STEM,99,5,5,5,5,5,5,5,5,5,5,5,5
+SYN_067,Female,Graduate,STEM,212,5,4,4,2,3,3,3,3,3,4,3,3
+SYN_068,,Freshman,Business & Economics,179,5,5,,1,3,5,3,1,4,3,5,3
+SYN_069,Male,Graduate,Business & Economics,182,4,3,3,3,3,3,3,2,3,3,3,3
+SYN_070,Female,Sophomore,STEM,196,4,3,3,3,2,3,3,3,3,3,3,3
+SYN_071,Male,Sophomore,Business & Economics,157,3,3,3,3,3,3,3,3,3,3,3,3
+SYN_072,Female,Freshman,Business & Economics,209,3,3,3,4,3,4,4,2,3,3,3,3
+SYN_073,Male,Senior,Business & Economics,139,2,4,4,3,3,4,3,3,4,2,3,3
+SYN_074,Male,Junior,Humanities & Social Sciences,189,2,2,2,2,4,4,5,2,3,4,3,3
+SYN_075,Male,Graduate,STEM,179,4,4,5,2,2,2,3,3,3,3,4,2
+SYN_076,Male,Freshman,STEM,114,3,2,4,3,3,2,2,2,4,3,4,2
+SYN_077,Female,Graduate,STEM,133,4,4,4,2,3,3,3,3,4,3,4,3
+SYN_078,Male,Sophomore,STEM,162,4,4,4,2,5,5,5,1,3,3,4,2
+SYN_079,Female,Sophomore,STEM,164,3,3,4,2,4,4,4,2,5,4,3,2
+SYN_080,Female,Junior,STEM,213,3,3,4,3,3,5,5,2,3,3,3,2
+SYN_081,Female,Freshman,STEM,173,3,4,3,2,5,4,3,1,3,3,3,2
+SYN_082,Male,Junior,Humanities & Social Sciences,193,5,5,5,3,4,4,4,1,5,5,5,1
+SYN_083,Female,Junior,Business & Economics,172,4,5,4,1,5,4,5,1,5,5,5,2
+SYN_084,Female,Freshman,Humanities & Social Sciences,86,3,3,4,3,5,5,4,1,5,4,4,1
+SYN_085,Female,Junior,Humanities & Social Sciences,189,4,4,3,2,4,3,3,3,4,3,3,4
+SYN_086,Male,Sophomore,Business & Economics,150,2,2,2,4,3,2,3,3,3,3,2,4
+SYN_087,Female,Sophomore,Business & Economics,187,5,5,4,1,5,5,4,1,5,5,5,1
+SYN_088,Male,Graduate,STEM,154,2,1,3,4,2,3,2,3,3,3,2,4
+SYN_089,Male,Junior,Humanities & Social Sciences,242,4,4,3,2,3,3,2,3,3,2,2,4
+SYN_090,Male,Freshman,Business & Economics,194,2,3,3,4,3,3,3,4,4,3,2,4
+SYN_091,Male,Senior,STEM,246,3,4,4,3,3,4,4,2,3,4,3,3
+SYN_092,Female,Sophomore,Humanities & Social Sciences,252,4,4,5,1,3,3,3,3,5,4,4,2
+SYN_093,Male,Junior,Business & Economics,164,4,4,4,3,4,4,3,1,4,4,4,2
+SYN_094,Male,Sophomore,STEM,255,2,3,4,3,4,3,4,3,3,3,2,3
+SYN_095,Male,Junior,Business & Economics,211,4,3,4,1,3,4,2,3,4,4,4,2
+SYN_096,Male,Senior,Business & Economics,140,4,3,4,3,5,4,4,2,4,5,5,2
+SYN_097,Male,Sophomore,Business & Economics,189,4,3,3,3,2,2,3,2,2,2,3,4
+SYN_098,Male,Senior,Humanities & Social Sciences,202,2,2,2,4,4,2,3,3,3,2,3,4
+SYN_099,Female,Junior,Humanities & Social Sciences,295,4,5,4,2,3,2,2,3,3,3,3,4
+SYN_100,Male,Junior,Humanities & Social Sciences,176,5,5,4,2,5,5,5,1,4,3,3,2
+SYN_101,Male,Sophomore,STEM,325,3,4,4,3,2,3,2,3,3,3,2,3
+SYN_102,Female,Sophomore,STEM,251,3,3,3,3,2,2,1,4,3,3,3,3
+SYN_103,Male,Sophomore,Business & Economics,100,4,5,4,2,5,5,5,1,4,5,3,1
+SYN_104,Female,Freshman,Humanities & Social Sciences,141,5,5,5,1,4,4,5,1,5,5,4,2
+SYN_105,Male,Freshman,STEM,237,5,4,4,3,4,5,4,1,3,5,5,1
+SYN_106,Female,Senior,STEM,123,5,3,4,2,3,3,3,3,3,3,4,3
+SYN_107,Male,Sophomore,STEM,229,2,3,3,3,3,3,3,2,2,3,2,4
+SYN_108,Male,Senior,Humanities & Social Sciences,306,,,3,2,4,4,4,3,4,4,4,2
+SYN_109,Male,Freshman,Humanities & Social Sciences,180,5,4,5,1,4,4,3,4,5,5,5,2
+SYN_110,Female,Senior,STEM,308,5,5,5,1,5,3,5,2,4,4,4,2
+SYN_111,Male,Sophomore,STEM,300,4,3,4,3,4,4,5,2,4,4,3,3
+SYN_112,Female,Graduate,Business & Economics,193,4,4,3,4,3,3,2,4,3,2,2,4
+SYN_113,Male,Graduate,STEM,194,3,4,2,3,5,4,2,2,4,2,4,3
+SYN_114,Female,Senior,Business & Economics,208,3,3,3,4,4,4,3,2,4,3,3,3
+SYN_115,Female,Sophomore,STEM,226,4,3,4,3,3,3,2,4,3,4,2,3
+SYN_116,Female,Freshman,Humanities & Social Sciences,119,2,2,3,4,3,4,3,2,4,4,4,2
+SYN_117,Female,Senior,Business & Economics,187,3,2,3,3,5,4,4,2,3,3,3,3
+SYN_118,Male,Junior,Humanities & Social Sciences,115,3,4,3,2,5,5,5,3,4,5,4,1
+SYN_119,Female,Freshman,Humanities & Social Sciences,176,3,3,4,2,4,3,3,3,3,3,4,3
+SYN_120,Female,Junior,STEM,183,3,3,2,2,3,2,3,4,2,2,2,3
+SYN_121,Male,Freshman,Business & Economics,110,2,2,4,3,4,4,5,1,4,4,2,2
+SYN_122,Male,Junior,Humanities & Social Sciences,131,5,4,5,2,3,4,2,4,4,4,4,3
+SYN_123,Female,Junior,Business & Economics,173,3,3,3,3,3,2,2,3,3,3,3,3
+SYN_124,Female,Senior,Business & Economics,392,4,4,4,4,4,3,4,2,4,4,4,3
+SYN_125,Female,Sophomore,Business & Economics,126,4,4,4,1,3,5,4,2,5,5,5,2
+SYN_126,Female,Sophomore,Business & Economics,204,5,5,4,3,2,3,3,2,3,3,3,2
+SYN_127,Male,Sophomore,Business & Economics,148,3,4,4,2,3,2,2,4,4,4,4,1
+SYN_128,Male,Freshman,Humanities & Social Sciences,174,4,4,4,2,2,2,2,4,3,3,2,3
+SYN_129,Female,Graduate,Humanities & Social Sciences,269,2,2,3,3,3,3,2,4,3,2,3,4
+SYN_130,Male,Graduate,Humanities & Social Sciences,217,3,2,3,3,3,4,3,3,3,4,4,2
+SYN_131,Male,Junior,Humanities & Social Sciences,225,4,4,,4,3,4,4,3,3,3,4,2
+SYN_132,Male,Freshman,Humanities & Social Sciences,230,1,1,2,5,3,3,4,2,3,3,2,4
+SYN_133,Male,Freshman,Humanities & Social Sciences,236,3,3,3,2,3,4,4,3,4,3,4,3
+SYN_134,Male,Graduate,STEM,39,4,1,1,4,3,1,2,2,5,3,4,1
+SYN_135,Female,Freshman,STEM,222,4,3,4,2,3,3,3,3,2,4,3,3
+SYN_136,Male,Freshman,STEM,191,3,4,4,2,2,3,3,3,4,3,2,4
+SYN_137,Male,Senior,STEM,223,5,3,4,3,2,3,3,4,4,3,4,2
+SYN_138,Male,Sophomore,Humanities & Social Sciences,257,5,3,4,2,3,3,2,3,5,3,4,2
+SYN_139,Female,Sophomore,Business & Economics,224,4,4,4,1,5,5,5,1,5,5,5,1
+SYN_140,Male,Sophomore,STEM,245,4,3,4,2,3,3,2,4,3,4,3,2
+SYN_141,Male,Senior,Business & Economics,135,5,4,5,1,3,3,3,4,4,5,4,2
+SYN_142,Female,Junior,STEM,227,3,4,3,3,4,5,3,3,4,4,4,2
+SYN_143,Female,Senior,Humanities & Social Sciences,190,5,3,4,3,4,3,2,3,3,4,3,3
+SYN_144,Female,Junior,STEM,191,2,4,5,3,4,4,4,2,5,4,4,2
+SYN_145,Male,Sophomore,Humanities & Social Sciences,298,3,4,4,3,2,2,1,3,4,4,3,2
+SYN_146,Female,Sophomore,Humanities & Social Sciences,22,2,2,1,4,4,2,1,1,5,1,5,4
+SYN_147,Female,Senior,Business & Economics,159,3,3,3,3,4,4,3,3,3,3,3,4
+SYN_148,Female,Sophomore,STEM,129,5,4,5,2,3,2,1,4,2,3,3,3
+SYN_149,Female,Junior,Humanities & Social Sciences,179,5,5,3,2,3,4,3,2,4,4,4,2
+SYN_150,Female,Junior,Business & Economics,277,3,2,4,3,3,4,4,2,3,3,4,2
+SYN_151,Male,Graduate,Humanities & Social Sciences,115,4,3,3,2,2,2,3,3,4,4,3,3
+SYN_152,Female,Freshman,STEM,213,4,3,4,2,4,3,4,3,3,3,4,3
+SYN_153,Male,Sophomore,Business & Economics,87,4,4,5,1,5,4,2,3,4,4,4,2
+SYN_154,Female,Senior,STEM,157,5,5,4,1,4,4,4,2,5,5,4,1
+SYN_155,Male,Sophomore,STEM,226,3,4,4,3,5,4,4,2,3,4,3,3
+SYN_156,Female,Freshman,STEM,165,3,3,4,3,4,5,4,1,3,4,3,3
+SYN_157,Male,Graduate,Business & Economics,134,4,3,5,2,4,5,5,2,3,3,3,2
+SYN_158,Female,Senior,Business & Economics,175,4,5,5,1,4,4,4,3,3,4,3,2
+SYN_159,Female,Sophomore,Business & Economics,269,5,5,5,1,4,5,4,2,4,4,5,1
+SYN_160,Male,Freshman,Business & Economics,317,4,3,4,3,3,3,3,2,4,5,4,2
+SYN_161,Male,Senior,Business & Economics,319,2,2,3,3,3,4,4,3,3,2,3,3
+SYN_162,Female,Junior,Business & Economics,244,4,4,4,2,4,4,3,3,4,5,4,1
+SYN_163,Female,Graduate,Humanities & Social Sciences,220,3,3,4,3,3,4,4,3,4,4,3,1
+SYN_164,Male,Junior,Humanities & Social Sciences,269,2,3,2,3,3,3,2,3,2,2,2,4
+SYN_165,Female,Sophomore,Business & Economics,136,5,5,5,2,5,4,4,1,3,3,3,2
+SYN_166,Female,Freshman,Humanities & Social Sciences,144,3,3,4,2,4,4,4,2,2,3,3,4
+SYN_167,Male,Sophomore,STEM,297,3,3,3,3,3,3,2,2,3,3,3,2
+SYN_168,Female,Senior,Business & Economics,258,5,5,5,2,3,2,3,2,3,4,3,2
+SYN_169,Female,Freshman,STEM,260,3,3,3,2,3,4,3,4,3,3,3,4
+SYN_170,Female,Sophomore,Humanities & Social Sciences,211,4,3,3,4,2,3,3,3,4,3,2,3
+SYN_171,Female,Sophomore,Business & Economics,151,4,4,4,4,4,4,4,4,4,4,4,4
+SYN_172,Female,Senior,Business & Economics,139,1,2,3,3,3,3,3,4,4,3,4,2
+SYN_173,Male,Sophomore,Humanities & Social Sciences,265,2,4,3,4,3,2,3,3,1,1,1,4
+SYN_174,Male,Graduate,Humanities & Social Sciences,278,4,3,4,2,4,4,4,2,5,5,4,2
+SYN_175,Male,Sophomore,STEM,137,1,1,3,5,3,3,3,3,3,2,3,3
+SYN_176,Female,Senior,Humanities & Social Sciences,155,4,4,3,2,3,3,3,2,3,4,4,2
+SYN_177,Male,Senior,Humanities & Social Sciences,190,5,3,4,2,5,5,5,1,5,4,5,3
+SYN_178,Female,Graduate,Humanities & Social Sciences,260,5,4,5,3,3,3,4,3,3,4,2,3
+SYN_179,Male,Sophomore,Business & Economics,176,3,4,2,2,4,5,5,1,3,3,3,4
+SYN_180,Female,Senior,Business & Economics,149,4,3,4,1,4,4,4,3,4,4,4,1
+SYN_181,Male,Sophomore,Humanities & Social Sciences,269,3,2,3,4,5,4,3,2,4,4,4,3
+SYN_182,Male,Sophomore,Humanities & Social Sciences,238,2,2,3,3,4,3,4,4,3,2,3,2
+SYN_183,Male,Freshman,Business & Economics,157,3,3,3,3,5,5,5,1,3,3,5,2
+SYN_184,Male,Junior,Humanities & Social Sciences,159,4,3,4,2,3,3,3,3,3,4,4,2
+SYN_185,Female,Freshman,STEM,280,4,3,4,3,5,4,4,2,5,5,4,2
+SYN_186,Male,Graduate,Business & Economics,130,5,5,4,1,4,4,5,2,4,5,4,1
+SYN_187,Male,Freshman,Business & Economics,179,4,3,3,3,4,4,4,2,3,3,2,3
+SYN_188,Female,Junior,Business & Economics,227,3,4,5,2,3,5,3,4,3,4,3,2
+SYN_189,Male,Senior,STEM,207,5,5,5,3,4,4,4,2,4,3,3,3
+SYN_190,Female,Freshman,Humanities & Social Sciences,264,3,3,3,3,3,4,3,2,2,3,4,2
+SYN_191,Female,Junior,STEM,114,4,5,3,2,4,3,4,2,5,4,4,2
+SYN_192,Male,Junior,Humanities & Social Sciences,197,3,3,2,5,2,3,2,4,2,2,3,4
+SYN_193,Female,Senior,Humanities & Social Sciences,216,3,4,3,3,2,4,2,2,3,2,2,3
+SYN_194,Male,Senior,STEM,218,5,4,5,1,4,3,3,2,4,4,3,2
+SYN_195,Male,Senior,Business & Economics,236,3,4,3,3,3,3,3,3,4,3,3,4
+SYN_196,Female,Senior,Business & Economics,135,4,4,5,3,4,3,3,1,3,4,3,3
+SYN_197,Male,Junior,STEM,312,4,5,4,3,5,5,5,1,5,4,5,2
+SYN_198,Female,Sophomore,Business & Economics,227,2,1,2,5,5,5,3,2,3,3,4,2
+SYN_199,Female,Freshman,STEM,235,2,2,3,4,2,2,2,4,1,3,2,3
+SYN_200,Female,Freshman,STEM,163,3,3,3,3,2,3,3,3,3,4,2,3
+SYN_201,Male,Graduate,Business & Economics,208,3,4,3,4,3,3,3,3,3,3,3,3
+SYN_202,Male,Sophomore,Humanities & Social Sciences,301,3,4,4,3,5,4,4,3,3,4,5,3
+SYN_203,Female,Graduate,Business & Economics,195,3,3,4,3,2,2,2,4,3,3,3,3
+SYN_204,Male,Sophomore,STEM,209,3,3,3,3,2,2,2,4,4,2,2,3
+SYN_205,Male,Freshman,STEM,217,3,3,3,2,3,3,3,3,3,3,2,3
+SYN_206,Male,Sophomore,STEM,116,4,4,4,4,4,4,4,4,4,4,4,4
+SYN_207,Female,Sophomore,Business & Economics,186,5,5,5,2,5,5,5,2,4,5,4,1
+SYN_208,Female,Freshman,Business & Economics,245,4,5,4,1,4,4,4,2,4,4,4,1
+SYN_209,Male,Junior,Business & Economics,168,5,5,4,1,5,5,4,1,5,5,4,1
+SYN_210,Male,Senior,Business & Economics,194,3,3,4,3,3,3,3,3,5,3,4,1
+SYN_211,Female,Sophomore,STEM,194,3,3,2,3,3,3,2,4,2,3,3,4
+SYN_212,Male,Junior,Business & Economics,118,5,5,4,1,4,4,4,2,4,5,4,2
+SYN_213,Female,Graduate,Business & Economics,254,4,3,3,3,4,4,4,2,4,4,4,2
+SYN_214,Female,Sophomore,STEM,127,4,5,4,1,4,5,3,1,5,5,5,2
+SYN_215,Female,Junior,STEM,225,3,5,3,3,4,3,3,3,4,4,5,2
+SYN_216,Female,Graduate,STEM,188,4,3,2,3,3,3,3,3,3,3,3,3
+SYN_217,Female,Junior,Business & Economics,176,5,5,5,5,5,5,5,5,5,5,5,5
+SYN_218,Male,Junior,Business & Economics,201,3,4,3,3,3,4,3,2,3,3,5,2
+SYN_219,Male,Junior,STEM,250,2,4,3,2,3,3,3,2,3,3,3,3
+SYN_220,Female,Freshman,Business & Economics,255,3,2,4,4,3,5,3,3,2,3,2,3
+SYN_221,Female,Senior,STEM,171,4,3,4,1,4,5,4,2,4,3,3,3
+SYN_222,Female,Graduate,Humanities & Social Sciences,186,5,5,5,5,5,5,5,5,5,5,5,5
+SYN_223,Male,Graduate,STEM,149,4,3,4,2,4,4,4,2,4,5,3,3
+SYN_224,Female,Junior,Business & Economics,123,4,4,4,4,3,3,3,2,4,4,4,2
+SYN_225,Female,Sophomore,STEM,266,4,3,5,2,4,4,5,3,3,4,4,3
+SYN_226,Female,Senior,Humanities & Social Sciences,138,4,4,5,3,2,2,2,4,4,4,2,3
+SYN_227,Male,Graduate,STEM,155,4,4,4,4,4,4,4,4,4,4,4,4
+SYN_228,Male,Graduate,Humanities & Social Sciences,222,3,3,3,3,3,3,3,3,3,3,3,3
+SYN_229,Male,Sophomore,Business & Economics,128,3,4,4,2,4,4,3,3,3,4,3,3
+SYN_230,Male,Graduate,STEM,229,5,5,5,1,5,5,5,2,5,5,5,1
+SYN_231,Female,Senior,Business & Economics,150,3,3,4,3,3,3,2,4,3,3,3,3
+SYN_232,Female,Graduate,Humanities & Social Sciences,137,3,2,3,3,3,4,4,3,3,2,2,3
+SYN_233,Male,Freshman,STEM,28,5,2,4,5,5,3,4,4,2,4,4,2
+SYN_234,Male,Graduate,STEM,150,4,2,4,4,3,3,3,2,2,2,1,3
+SYN_235,Female,Senior,STEM,212,3,3,3,4,3,3,3,2,4,3,3,2
+SYN_236,Female,Freshman,STEM,309,3,2,3,3,3,3,2,4,4,3,3,2
+SYN_237,Female,Junior,Business & Economics,244,5,4,4,3,2,3,3,4,3,2,3,2
+SYN_238,Male,Freshman,STEM,228,3,3,3,3,2,3,4,3,3,3,3,4
+SYN_239,Female,Senior,Humanities & Social Sciences,161,4,4,3,2,3,3,3,3,3,4,3,2
+SYN_240,Female,Junior,Humanities & Social Sciences,39,4,1,1,4,5,2,3,5,1,4,2,5
+SYN_241,Male,Junior,Humanities & Social Sciences,202,3,3,3,4,3,3,2,4,3,2,3,3
+SYN_242,Male,Senior,Humanities & Social Sciences,192,5,4,4,2,4,5,5,1,5,5,5,1
+SYN_243,Male,Senior,STEM,204,4,3,4,1,4,3,3,2,2,3,2,3
+SYN_244,Female,Freshman,STEM,133,3,3,3,4,4,3,4,3,3,3,3,4
+SYN_245,Female,Senior,Humanities & Social Sciences,343,4,4,4,1,2,3,2,2,4,4,3,2
+SYN_246,Female,Junior,Business & Economics,127,3,3,3,3,3,3,3,3,3,3,4,3
+SYN_247,Female,Sophomore,Humanities & Social Sciences,185,3,2,3,3,4,4,5,2,3,3,3,2
+SYN_248,Female,Sophomore,STEM,253,3,3,5,2,3,4,,3,3,5,3,3
+SYN_249,Female,Junior,Business & Economics,153,5,5,4,1,3,4,4,1,4,4,5,2
+SYN_250,Female,Graduate,STEM,271,1,1,2,4,3,4,5,2,3,4,3,2
+SYN_251,Male,Graduate,Humanities & Social Sciences,123,4,4,5,2,4,4,4,3,4,2,3,3
+SYN_252,Female,Freshman,Business & Economics,153,3,3,3,2,4,5,4,1,3,3,3,3
+SYN_253,Female,Junior,STEM,91,3,3,3,3,3,3,2,3,3,3,3,3
+SYN_254,Male,Senior,STEM,269,4,3,3,4,3,2,2,3,4,3,3,3
+SYN_255,Male,Junior,STEM,132,5,4,4,2,3,3,4,1,4,5,4,1
+SYN_256,Male,Graduate,Humanities & Social Sciences,155,4,4,5,2,4,4,4,3,3,4,4,2
+SYN_257,Female,Junior,Business & Economics,247,3,4,3,3,3,4,4,2,5,4,5,2
+SYN_258,Male,Sophomore,Humanities & Social Sciences,215,5,4,4,1,3,2,3,3,4,4,3,1
+SYN_259,Male,Junior,STEM,271,5,5,5,1,3,3,3,3,4,4,4,2
+SYN_260,Male,Junior,STEM,237,3,4,3,3,4,5,4,2,4,5,5,2
+SYN_261,Male,Graduate,Humanities & Social Sciences,256,2,3,2,3,3,3,3,4,4,4,4,2
+SYN_262,Female,Sophomore,Humanities & Social Sciences,165,4,4,5,1,4,4,4,2,5,5,4,2
+SYN_263,Female,Sophomore,STEM,187,3,3,4,2,5,5,5,1,4,4,4,2
+SYN_264,Male,Senior,Humanities & Social Sciences,244,3,3,4,3,1,2,1,3,3,2,2,3
+SYN_265,Male,Sophomore,Business & Economics,245,4,4,4,2,2,1,1,5,3,2,2,4
+SYN_266,Female,Junior,STEM,261,5,5,5,1,5,5,5,1,5,5,5,1
+SYN_267,Female,Graduate,Business & Economics,151,3,4,4,2,2,3,3,4,3,3,3,2
+SYN_268,Female,Senior,STEM,136,3,3,4,3,2,4,3,3,3,2,3,4
+SYN_269,Male,Senior,STEM,129,2,1,2,5,2,1,2,4,3,2,1,5
+SYN_270,Male,Graduate,Humanities & Social Sciences,165,4,3,3,1,3,3,1,4,4,4,4,2
+SYN_271,Female,Senior,Business & Economics,186,4,4,5,2,4,4,4,1,3,4,4,1
+SYN_272,Male,Graduate,Humanities & Social Sciences,131,3,2,3,4,3,3,4,2,4,3,4,3
+SYN_273,Male,Junior,Humanities & Social Sciences,181,4,4,4,2,3,2,4,3,4,4,4,2
+SYN_274,Male,Junior,STEM,236,3,2,3,1,1,1,3,5,3,3,2,3
+SYN_275,Female,Sophomore,Humanities & Social Sciences,264,3,4,3,2,4,4,3,2,4,4,4,3
+SYN_276,Male,Sophomore,Humanities & Social Sciences,159,4,4,3,2,5,5,4,1,3,4,3,2
+SYN_277,Female,Junior,STEM,231,5,3,4,3,2,2,2,2,3,4,3,2
+SYN_278,Female,Freshman,Business & Economics,128,5,5,5,3,4,4,5,1,3,4,3,2
+SYN_279,Female,Freshman,STEM,156,3,3,2,3,3,3,3,2,3,2,3,3
+SYN_280,Female,Senior,Humanities & Social Sciences,199,3,3,3,4,3,2,2,4,3,4,3,2
+SYN_281,Male,Senior,Humanities & Social Sciences,157,3,4,4,3,3,4,3,2,3,4,4,1
+SYN_282,Female,Freshman,Humanities & Social Sciences,150,5,5,5,1,4,4,4,3,4,3,4,2
+SYN_283,Female,Freshman,Business & Economics,210,4,3,5,4,4,3,2,3,4,4,3,1
+SYN_284,Male,Junior,Business & Economics,140,4,5,4,2,5,4,5,2,3,5,4,1
+SYN_285,Male,Sophomore,STEM,199,3,3,2,3,4,3,2,4,4,3,2,2
+SYN_286,Male,Junior,STEM,186,1,2,3,4,4,5,4,3,4,3,2,4
+SYN_287,Male,Freshman,,226,3,3,4,3,5,5,4,1,5,5,5,1
+SYN_288,Male,Graduate,STEM,245,5,5,3,2,4,4,3,3,5,5,4,1
+SYN_289,Female,Sophomore,Humanities & Social Sciences,201,4,5,5,2,4,3,4,2,4,5,5,2
+SYN_290,Male,Sophomore,Humanities & Social Sciences,164,4,4,4,1,4,2,3,3,4,5,4,3
+SYN_291,Female,Junior,Humanities & Social Sciences,265,4,3,4,2,4,5,4,1,5,4,4,2
+SYN_292,Female,Junior,Humanities & Social Sciences,205,2,2,3,4,1,2,1,5,2,2,3,3
+SYN_293,Male,Graduate,STEM,145,4,4,5,2,3,1,3,3,3,3,4,2
+SYN_294,Female,Sophomore,Business & Economics,203,2,3,2,3,3,3,3,4,3,2,2,3
+SYN_295,Male,Freshman,Business & Economics,158,2,3,3,3,4,4,2,3,3,3,3,3
+SYN_296,Female,Freshman,Business & Economics,86,4,5,4,2,4,4,4,2,4,5,4,1
+SYN_297,Female,Senior,Business & Economics,141,4,5,5,1,4,5,5,1,5,3,4,2
+SYN_298,Female,Sophomore,Humanities & Social Sciences,170,3,3,2,2,3,2,2,3,2,2,2,4
+SYN_299,Female,Graduate,Humanities & Social Sciences,166,3,3,4,2,2,2,2,5,2,3,3,4
+SYN_300,Male,Freshman,Business & Economics,117,5,3,5,3,5,5,4,1,5,5,4,1
